@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\projectPrak-master\Net\bin\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master\Net\bin\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\bin\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\bin\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\NetSocket.pdb
